@@ -1,12 +1,12 @@
 import React from "react";
-import Components  from "./Components";
+import Buttons  from "./Buttons";
 
 function App() {
   return (
     <div className="Calculate">
       <div>
        
-       <Components />
+       <Buttons />
   
       </div>
       <h3>
